@@ -1,0 +1,22 @@
+{
+  "name": "clat-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "18.x",
+    "react-dom": "18.x",
+    "next": "14.x",
+    "recharts": "^2.5.0",
+    "@headlessui/react": "^1.7.7",
+    "framer-motion": "^8.2.0",
+    "shadcn-ui": "latest",
+    "lucide-react": "latest",
+    "googleapis": "^131.0.0"
+  }
+}
